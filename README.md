@@ -46,7 +46,7 @@ Operations Research, 65(6), 1722–1731.
      - Total Sales
 
 4. **Demand Modeling**  
-   - Fitted **Ridge Regression** or **ARIMA** models per (Cluster, PromotionType).
+   - Fitted **Ridge Regression** & **ARIMA** models per (Cluster, PromotionType).
    - Captured price elasticity via model coefficients.
 
 5. **Price Simulation (MAB Structure)**  
@@ -73,7 +73,6 @@ Operations Research, 65(6), 1722–1731.
   - `statsmodels` for ARIMA modeling  
 - **Visualization**:  
   - `matplotlib`, `seaborn` for plots  
-  - `plotly` (optional) for interactive visuals  
 - **Testing**: `unittest` for validating key components
 
 ---
