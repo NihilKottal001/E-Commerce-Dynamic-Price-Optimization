@@ -56,10 +56,7 @@ Operations Research, 65(6), 1722–1731.
 
 6. **Hindsight Optimal Revenue & Regret**  
    - Simulated revenue over a grid of prices.
-   - Computed regret:
-     \[
-     \text{Regret} = \text{OptimalHindsightRevenue} - \text{EarningPhaseRevenue}
-     \]
+   - Computed regret: Regret = OptimalHindsightRevenue - EarningPhaseRevenue
 
 ---
 
